@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DragAppointmentExample/Form1.cs) (VB: [Form1.vb](./VB/DragAppointmentExample/Form1.vb))
+<!-- default file list end -->
 # How to add an appointment to the dragged appointment in a drag-and-drop operation
 
 
